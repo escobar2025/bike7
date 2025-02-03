@@ -1,8 +1,7 @@
-
 {
   "scripts": {
     "build": "next build"
-  },
+  }, 
   "dependencies": {
     "next": "latest",
     "react": "latest",

@@ -8,16 +8,11 @@
     "react-dom": "latest",
     "@radix-ui/react-alert-dialog": "latest",
     "lucide-react": "latest"
-  }
-} 
-
-{
-  "name": "nextjs",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
+    "name": "nextjs",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },

@@ -1,3 +1,17 @@
+
+{
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@radix-ui/react-alert-dialog": "latest",
+    "lucide-react": "latest"
+  }
+} 
+
 {
   "name": "nextjs",
   "version": "0.1.0",

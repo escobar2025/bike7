@@ -1,1 +1,5 @@
+"use client"
 
+export function BikeMaintenanceApp() {
+  // código do componente
+}

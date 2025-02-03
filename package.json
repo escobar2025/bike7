@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "next build"
+   "build": "next build"
   }, 
   "dependencies": {
     "next": "latest",

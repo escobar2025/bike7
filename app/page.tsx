@@ -1,9 +1,9 @@
 "use client"
 
-import { BikeMaintenanceApp } from "@/components/BikeMaintenanceApp";
+import BikeApp  from "@/components/BikeApp";
 
 export default function Page() {
-  return <BikeMaintenanceApp />;
+  return <BikeApp />;
 }
 
 import React, { useState } from 'react';

@@ -3,11 +3,13 @@
 import React, { useState } from 'react';
 import { Clock, Wrench, AlertTriangle, User, LogOut } from 'lucide-react';
 
-export function BikeMaintenanceApp() {
-  // código do componente aqui
+const BikeMaintenanceApp = () => {
+  // código do componente
   return (
     <div>
-      {/* conteúdo do componente */}
+      // conteúdo do componente
     </div>
   );
-}
+};
+
+export default BikeMaintenanceApp;

@@ -1,0 +1,16 @@
+"use client"
+
+import React, { useState } from 'react'
+
+const BikeApp = () => {
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
+  
+  return (
+    <div className="p-4">
+      <h1>Bike Maintenance App</h1>
+      {/* Conteúdo básico primeiro */}
+    </div>
+  )
+}
+
+export default BikeApp

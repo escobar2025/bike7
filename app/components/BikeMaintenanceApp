@@ -1,5 +1,13 @@
 "use client"
 
+import React, { useState } from 'react';
+import { Clock, Wrench, AlertTriangle, User, LogOut } from 'lucide-react';
+
 export function BikeMaintenanceApp() {
-  // código do componente
+  // código do componente aqui
+  return (
+    <div>
+      {/* conteúdo do componente */}
+    </div>
+  );
 }
